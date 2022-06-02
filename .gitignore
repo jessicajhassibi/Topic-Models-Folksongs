@@ -2,5 +2,5 @@ BERTopic_models/german
 BERTopic_models/multilingual
 Top2Vec_models/model
 .ipynb_checkpoints/
-**.DS_Store
+.DS_Store
 __pycache__
